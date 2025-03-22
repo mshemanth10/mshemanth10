@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Student<br>I'm Intrested in Designing<br><br><br><br>
+I'm a Computer Science Student<br>Tech Enthuastic<br><br><br><br>
 
 
 ## 🌐 Socials:
