@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science Student<br>Tech enthusiastic<br><br><br><br>
+I am Hemanth, a Computer Science and Engineering student with a strong foundation in Python, Data Structures, and Object-Oriented Programming. I have a keen interest in Artificial Intelligence and Machine Learning, and I enjoy building practical applications that solve real-world problems.<br><br><br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemanth___leo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-s-hemanth-429b15259) 
 
